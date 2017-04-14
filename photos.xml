@@ -1,0 +1,311 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "23-03-17">
+	<sitename>מתוך חדרי הלב</sitename>
+	<photographer>מרים ויסנשטרן</photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "6" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_1563.jpg"
+width = "443"
+height = "600"
+thumbpath = "IMG_1563.jpg"
+thumbwidth = "73"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1564.jpg"
+width = "600"
+height = "600"
+thumbpath = "IMG_1564.jpg"
+thumbwidth = "100"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1565.jpg"
+width = "600"
+height = "579"
+thumbpath = "IMG_1565.jpg"
+thumbwidth = "100"
+thumbheight = "96">
+</image>
+
+
+<image
+path = "IMG_1566.jpg"
+width = "600"
+height = "600"
+thumbpath = "IMG_1566.jpg"
+thumbwidth = "100"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1567.jpg"
+width = "418"
+height = "600"
+thumbpath = "IMG_1567.jpg"
+thumbwidth = "69"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1568.jpg"
+width = "424"
+height = "600"
+thumbpath = "IMG_1568.jpg"
+thumbwidth = "70"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1569.jpg"
+width = "600"
+height = "540"
+thumbpath = "IMG_1569.jpg"
+thumbwidth = "100"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "IMG_1570.jpg"
+width = "600"
+height = "494"
+thumbpath = "IMG_1570.jpg"
+thumbwidth = "100"
+thumbheight = "82">
+</image>
+
+
+<image
+path = "IMG_1571.jpg"
+width = "600"
+height = "474"
+thumbpath = "IMG_1571.jpg"
+thumbwidth = "100"
+thumbheight = "79">
+</image>
+
+
+<image
+path = "IMG_1572.jpg"
+width = "600"
+height = "503"
+thumbpath = "IMG_1572.jpg"
+thumbwidth = "100"
+thumbheight = "83">
+</image>
+
+
+<image
+path = "IMG_1573.jpg"
+width = "600"
+height = "489"
+thumbpath = "IMG_1573.jpg"
+thumbwidth = "100"
+thumbheight = "81">
+</image>
+
+
+<image
+path = "IMG_1574.jpg"
+width = "600"
+height = "525"
+thumbpath = "IMG_1574.jpg"
+thumbwidth = "100"
+thumbheight = "87">
+</image>
+
+
+<image
+path = "IMG_1577.jpg"
+width = "462"
+height = "600"
+thumbpath = "IMG_1577.jpg"
+thumbwidth = "77"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1578.jpg"
+width = "463"
+height = "600"
+thumbpath = "IMG_1578.jpg"
+thumbwidth = "77"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1579.jpg"
+width = "418"
+height = "600"
+thumbpath = "IMG_1579.jpg"
+thumbwidth = "69"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1580.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1580.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1581.jpg"
+width = "394"
+height = "600"
+thumbpath = "IMG_1581.jpg"
+thumbwidth = "65"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1582.jpg"
+width = "446"
+height = "600"
+thumbpath = "IMG_1582.jpg"
+thumbwidth = "74"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1583.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1583.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1584.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1584.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1585.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1585.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1586.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1586.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1587.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1587.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1588.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1588.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1589.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1589.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1590.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1590.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1591.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1591.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1592.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1592.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "IMG_1593.jpg"
+width = "400"
+height = "600"
+thumbpath = "IMG_1593.jpg"
+thumbwidth = "66"
+thumbheight = "100">
+</image>
+
+</images>
+</gallery>
